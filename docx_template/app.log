@@ -1,0 +1,76 @@
+2021-04-24 13:41:10,762 - Send request to FILL IN docx template for Вася Пупкин
+2021-04-24 13:41:10,767 - Opened consent_personal_data.docx template
+2021-04-24 13:41:10,797 - Doc consent_personal_data_Вася Пупкин.docx filled in and saved successfully
+2021-04-24 13:42:16,205 - Send request to SIGN doc file for Вася Пупкин
+2021-04-24 13:42:16,211 - consent_personal_data_Вася Пупкин.docx opened
+2021-04-24 13:42:16,242 - consent_personal_data_Вася Пупкин_signed.docx signed and saved successfully
+2021-04-24 16:47:27,335 - Send request to FILL IN docx template for Вася Пупкин
+2021-04-24 16:47:27,761 - Opened consent_personal_data.docx template
+2021-04-24 16:47:27,937 - Doc consent_personal_data_Вася Пупкин.docx filled in and saved successfully
+2021-04-24 19:10:14,142 - Found credentials in shared credentials file: ~/.aws/credentials
+2021-04-24 19:10:23,018 - Send request to FILL IN docx template for Вася Пупкин
+2021-04-24 19:10:23,042 - Opened consent_personal_data.docx template
+2021-04-24 19:10:23,322 - Doc consent_personal_data_Вася Пупкин.docx filled in and saved successfully
+2021-04-24 19:25:32,015 - Found credentials in shared credentials file: ~/.aws/credentials
+2021-04-24 19:25:52,422 - Send request to FILL IN docx template for Вася Пупкин
+2021-04-24 19:25:52,426 - Opened consent_personal_data.docx template
+2021-04-24 19:25:52,495 - Doc consent_personal_data_Вася Пупкин.docx filled in and saved successfully
+2021-04-24 19:28:15,986 - Found credentials in shared credentials file: ~/.aws/credentials
+2021-04-24 19:28:24,913 - Send request to FILL IN docx template for John Smith
+2021-04-24 19:28:24,918 - Opened consent_personal_data.docx template
+2021-04-24 19:28:25,086 - Doc consent_personal_data_John Smith.docx filled in and saved successfully
+2021-04-24 19:34:24,931 - Found credentials in shared credentials file: ~/.aws/credentials
+2021-04-24 19:34:39,305 - Send request to FILL IN docx template for John Smith
+2021-04-24 19:34:39,310 - Opened consent_personal_data.docx template
+2021-04-24 19:34:39,384 - Doc consent_personal_data_John Smith.docx filled in and saved successfully
+2021-04-24 19:36:25,376 - Found credentials in shared credentials file: ~/.aws/credentials
+2021-04-24 19:36:31,394 - Send request to FILL IN docx template for John Smith
+2021-04-24 19:36:31,398 - Opened consent_personal_data.docx template
+2021-04-24 19:36:31,465 - Doc consent_personal_data_John Smith.docx filled in and saved successfully
+2021-04-24 19:56:16,022 - Found credentials in shared credentials file: ~/.aws/credentials
+2021-04-24 19:57:26,134 - Send request to FILL IN docx template for John Smith
+2021-04-24 19:57:26,140 - Opened consent_personal_data.docx template
+2021-04-24 19:57:26,226 - Doc consent_personal_data_John Smith.docx filled in and saved successfully
+2021-04-25 01:26:09,494 - Found credentials in shared credentials file: ~/.aws/credentials
+2021-04-25 01:26:19,162 - Send request to FILL IN docx template for John Smith
+2021-04-25 01:26:19,317 - Opened consent_personal_data.docx template
+2021-04-25 01:26:19,470 - Doc consent_personal_data_John Smith.docx filled in and saved successfully
+2021-04-25 01:29:13,259 - Found credentials in shared credentials file: ~/.aws/credentials
+2021-04-25 01:29:22,024 - Send request to FILL IN docx template for John Smith
+2021-04-25 01:29:22,029 - Opened consent_personal_data.docx template
+2021-04-25 01:29:22,108 - Doc consent_personal_data_John Smith.docx filled in and saved successfully
+2021-04-25 01:29:43,467 -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-04-25 01:29:43,488 -  * Restarting with stat
+2021-04-25 01:29:44,128 - Found credentials in shared credentials file: ~/.aws/credentials
+2021-04-25 01:30:08,641 - Send request to FILL IN docx template for John Smith
+2021-04-25 01:30:08,648 - Opened consent_personal_data.docx template
+2021-04-25 01:30:08,735 - Doc consent_personal_data_John Smith.docx filled in and saved successfully
+2021-04-25 01:30:29,987 -  * Debugger is active!
+2021-04-25 01:30:30,014 -  * Debugger PIN: 804-391-619
+2021-04-25 01:30:30,023 - 127.0.0.1 - - [25/Apr/2021 01:30:30] "[37mGET / HTTP/1.1[0m" 200 -
+2021-04-25 10:50:14,978 - Found credentials in shared credentials file: ~/.aws/credentials
+2021-04-25 10:51:29,040 - Found credentials in shared credentials file: ~/.aws/credentials
+2021-04-25 10:51:34,420 - Send request to FILL IN docx template for John Smith
+2021-04-25 10:51:35,388 - Opened consent_personal_data.docx template
+2021-04-25 10:51:35,808 - Doc consent_personal_data_John Smith.docx filled in and saved successfully
+2021-04-25 10:59:29,327 - Found credentials in shared credentials file: ~/.aws/credentials
+2021-04-25 11:00:28,669 - Found credentials in shared credentials file: ~/.aws/credentials
+2021-04-25 11:00:56,606 - Found credentials in shared credentials file: ~/.aws/credentials
+2021-04-25 11:02:08,963 - Found credentials in shared credentials file: ~/.aws/credentials
+2021-04-25 11:05:56,546 - Found credentials in shared credentials file: ~/.aws/credentials
+2021-04-25 11:06:39,823 - Found credentials in shared credentials file: ~/.aws/credentials
+2021-04-25 11:06:45,173 - Send request to FILL IN docx template for John Smith
+2021-04-25 11:06:45,179 - Opened consent_personal_data.docx template
+2021-04-25 11:06:45,352 - Doc consent_personal_data_John Smith.docx filled in and saved successfully
+2021-04-25 11:35:19,701 - Found credentials in shared credentials file: ~/.aws/credentials
+2021-04-25 11:35:24,359 - Send request to FILL IN docx template for John Smith
+2021-04-25 11:35:24,367 - Opened consent_personal_data.docx template
+2021-04-25 11:35:24,560 - Doc consent_personal_data_JohnSmith.docx filled in and saved successfully
+2021-04-25 11:37:23,096 - Found credentials in shared credentials file: ~/.aws/credentials
+2021-04-25 11:37:30,000 - Send request to FILL IN docx template for John Smith
+2021-04-25 11:37:30,006 - Opened consent_personal_data.docx template
+2021-04-25 11:37:30,097 - Doc consent_personal_data_JohnSmith.docx filled in and saved successfully
+2021-04-25 12:08:23,118 - Found credentials in shared credentials file: ~/.aws/credentials
+2021-04-25 12:08:31,342 - Send request to FILL IN docx template for John Smith
+2021-04-25 12:08:31,349 - Opened consent_personal_data.docx template
+2021-04-25 12:08:31,864 - Doc consent_personal_data_JohnSmith.docx filled in and saved successfully
