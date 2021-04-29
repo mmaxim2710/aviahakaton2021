@@ -6,7 +6,11 @@ It was created using Python & Flask & sqlite3 & S3 Storage provided by Yandex.Cl
 
 ## Installation
 
-Make sure you have working Python environment & flask. 
+Make sure you have working Python environment & flask.
+
+To find person by phone number, make QR-code, render template and send it in S3, please run:
+
+    python3 "s3db.py"
 
 To install application, please run:
 
